@@ -10,7 +10,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-pageflip": "^1.1.17"
+    "react-pageflip": "^1.0.17"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.0",
